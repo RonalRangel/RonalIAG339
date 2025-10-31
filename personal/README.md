@@ -12,4 +12,11 @@ git add |
 git comit -m"nombre" | se copia en el equipo
 git clone (enlace a clonar) | clonar directorio
 .gitignore | para ignorar elementos y no compartirlos en el repositorio o git hub
-git status | 
+git status | para ver si el archivo si esta afuera o adentro
+git remote -v | saber donde estoy parado
+git push | envia los cambios
+git pull | trae los cambios
+html | hipertex markup languaje
+css | cascading style sheets
+ <meta charset="UTF-8">    |   caracteres especiales 
+ h1 | tamaño de titulo de grande a pqueño h1 a h6
