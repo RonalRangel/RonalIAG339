@@ -9,7 +9,7 @@ dir o ls         | para ver que hay en carpeta directorio
 py nombre.py     | para ejecutar python
 git init | para inicializar el repositorio
 git add | 
-git comit -m"nombre" | se copia en el equipo
+git commit -m"nombre" | se copia en el equipo
 git clone (enlace a clonar) | clonar directorio
 .gitignore | para ignorar elementos y no compartirlos en el repositorio o git hub
 git status | para ver si el archivo si esta afuera o adentro
