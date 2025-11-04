@@ -21,7 +21,8 @@ nav ul {
 nav ul li a{
     color: white;
     text-decoration: none;
-    font-weight: bolder;
+    font-weight: bold;
+    
 }
 nav ul li {
     margin: 0 15px;
