@@ -1,5 +1,40 @@
-div {
-    color
+body {
+    background-color: white;
+}
+{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #007acc;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
 
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+nav ul li {
+    margin: 0 15px;
+}
 
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: orange;
 }
