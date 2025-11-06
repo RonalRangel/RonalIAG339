@@ -20,4 +20,8 @@ html | hipertex markup languaje
 css | cascading style sheets
  <meta charset="UTF-8">    |   caracteres especiales 
  h1 | tamaño de titulo de grande a pqueño h1 a h6
- pip install -r requeriments.txt |
+ pip install -r requeriments.txt | 
+ git pull origien master
+ g339/scripts/activate | activar entorno virtual
+ deactivate | desactivar entorno virtual
+ 
