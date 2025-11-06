@@ -39,3 +39,24 @@ h2 {
 h3 {
     color: orange;
 }
+
+/* estilos footer */
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+
+}
+.contenido{
+    padding: 40px;
+    text-align: center;
+}
+.formulario{
+    max-width: 500px;
+    margin: 30px auto;
+    background-color: #c7b7b7;
+    padding: 20px;
+    border-radius: 8px;
+}
