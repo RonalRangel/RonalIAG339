@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "saludo",
+      "patterns": ["hola", "buenos días", "buenas tardes", "qué tal", "hey"],
+      "responses": ["¡Hola! ¿Cómo estás?", "¡Buenas! ¿En qué te puedo ayudar?"]
+    },
+    {
+      "tag": "despedida",
+      "patterns": ["adiós", "hasta luego", "nos vemos"],
+      "responses": ["¡Hasta luego!", "Nos vemos pronto."]
+    },
+    {
+      "tag": "agradecimiento",
+      "patterns": ["gracias", "muchas gracias", "te lo agradezco"],
+      "responses": ["¡Con gusto!", "No hay de qué :)"]
+    },
+    {
+      "tag": "precio",
+      "patterns": ["cuánto cuesta", "precio del producto", "dame el costo"],
+      "responses": ["Depende del producto, ¿cuál te interesa?"]
+    }
+  ]
+}

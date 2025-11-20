@@ -1,0 +1,17 @@
+{
+  "saludo": [
+    "¡Hola! ¿Cómo estás?",
+    "¡Buenas! ¿En qué te puedo ayudar?"
+  ],
+  "despedida": [
+    "¡Hasta luego!",
+    "Nos vemos pronto."
+  ],
+  "agradecimiento": [
+    "¡Con gusto!",
+    "No hay de qué :)"
+  ],
+  "precio": [
+    "Depende del producto, ¿cuál te interesa?"
+  ]
+}
